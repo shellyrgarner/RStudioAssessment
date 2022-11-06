@@ -13,18 +13,18 @@ I also added logic to delete the previously created space so that the tests can 
 
 1. Copy the URL of this repo in order to clone to your working directory. 
 
-2. In the terminal, type `git clone paster URL here
-3. 
-4. CD to path 
- 
-3. Run npm install
+2. In the terminal, type `git clone git@github.com/<your-username>/RStudioAssessment.git`
 
-4. In order to run the test, use command `npm run test`. 
+3. CD to path where the rstudioassessment project is located
 
-5. The cypress browser should open.
+4. Run npm install
 
-6. Click on the spec.cy.js file.
+5. In order to run the test, use command `npm run test`. 
 
-7. The Cypress dashboard will open and the test will start to run.
+6. The cypress browser should open.
+
+7. Click on the spec.cy.js file.
+
+8. The Cypress dashboard will open and the test will start to run.
 
 
