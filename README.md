@@ -17,6 +17,6 @@ I also added logic to delete the previously created space so that the tests can 
 
 3. Click on the spec.cy.js file.
 
-4. The Cypress runner should open and the test should start to run.
+4. The Cypress dashboard will open and the test will start to run.
 
 
