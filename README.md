@@ -1,4 +1,4 @@
-# RStudioAssessment
+# RStudio Assessment
 
 The following scenarios are covered in the spec.cy.js file.
 
