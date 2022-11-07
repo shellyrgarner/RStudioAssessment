@@ -11,7 +11,7 @@ The following scenarios are covered in the spec.cy.js file.
 ### Instructions
 1. Copy the URL of this repo in order to clone to your working directory. 
 
-2. In the terminal, type `git clone git@github.com/<your-username>/RStudioAssessment.git`
+2. In the terminal, type `git clone https://github.com/<your-username>/RStudioAssessment.git`
 
 3. CD to path where the rstudioassessment project is located
 
