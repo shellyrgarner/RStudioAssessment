@@ -1,0 +1,22 @@
+{
+  "name": "rstudioassessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shellyrgarner/RStudioAssessment.git"
+  },
+  "author": "Shelly Garner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shellyrgarner/RStudioAssessment/issues"
+  },
+  "homepage": "https://github.com/shellyrgarner/RStudioAssessment#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
